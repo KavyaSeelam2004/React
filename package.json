@@ -1,10 +1,10 @@
 {
   "name": "bmi-calculator",
+  "homepage": "https://KavyaSeelam2004.github.io/React",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://KavyaSeelam2004.github.io/bmi",
     "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
